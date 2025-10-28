@@ -1,4 +1,4 @@
-test_that("multiplication works", {
+test_that("nothing too fancy here, just checking that it works as intended", {
   expect_equal(cube(2), 8)
   expect_equal(cube(0), 0)
   expect_equal(cube(-1), -1)
